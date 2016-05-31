@@ -1,0 +1,3 @@
+/home/underdisc/Programs/CMake/1/build/CMakeFiles/edit_cache.dir
+/home/underdisc/Programs/CMake/1/build/CMakeFiles/rebuild_cache.dir
+/home/underdisc/Programs/CMake/1/build/CMakeFiles/program.dir
