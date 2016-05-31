@@ -16,7 +16,7 @@ To begin look in **1/**. As with learning how to create a Makefile for the first
 - CMakeLists.txt
 - build
 
-program.c is just the source for this program and only contains a printf statement. CMakeLists.txt however contains the directions for CMake to use in order to create a Makefile for the project.
+If the build directory is not there, just create it with `mkdir build`. program.c is just the source for this program and only contains a printf statement. CMakeLists.txt however contains the directions for CMake to use in order to create a Makefile for the project.
 If you open up CMakeLists.txt, you will find one line.
 
 ```
